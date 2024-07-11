@@ -1,3 +1,3 @@
 # Trialhead
 learning git
-Making changes from local ripository
+Making changes from local repository
